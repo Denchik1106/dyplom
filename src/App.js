@@ -1,24 +1,37 @@
-import logo from './logo.svg';
+import React, { useEffect, useState } from 'react';
 import './App.css';
+import Main from './Main';
+import Quiz from './Quiz';
+
 
 function App() {
+  const [route, setRoute] = useState('main')
+  console.log(route);
+  useEffect(() => {
+    console.log(route)
+  },[])
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+        <div class="wrapper">
+        <header>
+            <nav>
+              <button onClick={() => setRoute('main')}>
+          Главная
+          </button>
+          <button onClick={() => setRoute('victorina')}>
+          Викторина
+          </button>
+          <button onClick={() => setRoute('authorize')}>
+          Авторизация
+          </button>
+          <button onClick={() => setRoute('Exit')}>
+            Выход
+            </button>
+        </nav>
+        </header>
+    
+        <img className="main" alt="maintheme" src="images/Main.jpeg" />
+          {route === 'main' ? <Main setRoute={setRoute} /> : <Quiz />}
+        </div>
   );
 }
 
