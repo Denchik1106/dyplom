@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dyplom/static/css/main.5e7b6f33.css",
-    "main.js": "/dyplom/static/js/main.51a0bf29.js",
+    "main.js": "/dyplom/static/js/main.0d49bf52.js",
     "static/js/787.efa59ebd.chunk.js": "/dyplom/static/js/787.efa59ebd.chunk.js",
     "static/media/Main.jpeg": "/dyplom/static/media/Main.d3a7671304b44c54ff93.jpeg",
     "static/media/Afghanistan.png": "/dyplom/static/media/Afghanistan.9906f820aea3aaec759e.png",
@@ -62,11 +62,11 @@
     "static/media/Democratic-Republic-of-the-Congo.png": "/dyplom/static/media/Democratic-Republic-of-the-Congo.96f71407d9bf35e4c109.png",
     "index.html": "/dyplom/index.html",
     "main.5e7b6f33.css.map": "/dyplom/static/css/main.5e7b6f33.css.map",
-    "main.51a0bf29.js.map": "/dyplom/static/js/main.51a0bf29.js.map",
+    "main.0d49bf52.js.map": "/dyplom/static/js/main.0d49bf52.js.map",
     "787.efa59ebd.chunk.js.map": "/dyplom/static/js/787.efa59ebd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e7b6f33.css",
-    "static/js/main.51a0bf29.js"
+    "static/js/main.0d49bf52.js"
   ]
 }
