@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dyplom/static/css/main.5aff0655.css",
-    "main.js": "/dyplom/static/js/main.2c97fda3.js",
+    "main.css": "/dyplom/static/css/main.5e7b6f33.css",
+    "main.js": "/dyplom/static/js/main.b23d9d0f.js",
     "static/js/787.efa59ebd.chunk.js": "/dyplom/static/js/787.efa59ebd.chunk.js",
     "static/media/Main.jpeg": "/dyplom/static/media/Main.d3a7671304b44c54ff93.jpeg",
     "static/media/Afghanistan.png": "/dyplom/static/media/Afghanistan.9906f820aea3aaec759e.png",
@@ -37,6 +37,7 @@
     "static/media/Christmas-Island.png": "/dyplom/static/media/Christmas-Island.167a65914759ab3d48bf.png",
     "static/media/Eritrea.png": "/dyplom/static/media/Eritrea.d5f2d328aa4eb613cf70.png",
     "static/media/USA.png": "/dyplom/static/media/USA.fa44cd5298e756aadaac.png",
+    "static/media/Armenia.png": "/dyplom/static/media/Armenia.0e59312678ba5609241c.png",
     "static/media/Cocos-Islands.png": "/dyplom/static/media/Cocos-Islands.d8c9a00ac09bcee1cd3e.png",
     "static/media/Burundi.png": "/dyplom/static/media/Burundi.ed78adf85ba05077771e.png",
     "static/media/Antigua-and-Barbuda.png": "/dyplom/static/media/Antigua-and-Barbuda.8a6f5f7be7af586ed357.png",
@@ -60,12 +61,12 @@
     "static/media/Cape-Verde.png": "/dyplom/static/media/Cape-Verde.428d00b19c8c2bc09a54.png",
     "static/media/Democratic-Republic-of-the-Congo.png": "/dyplom/static/media/Democratic-Republic-of-the-Congo.96f71407d9bf35e4c109.png",
     "index.html": "/dyplom/index.html",
-    "main.5aff0655.css.map": "/dyplom/static/css/main.5aff0655.css.map",
-    "main.2c97fda3.js.map": "/dyplom/static/js/main.2c97fda3.js.map",
+    "main.5e7b6f33.css.map": "/dyplom/static/css/main.5e7b6f33.css.map",
+    "main.b23d9d0f.js.map": "/dyplom/static/js/main.b23d9d0f.js.map",
     "787.efa59ebd.chunk.js.map": "/dyplom/static/js/787.efa59ebd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aff0655.css",
-    "static/js/main.2c97fda3.js"
+    "static/css/main.5e7b6f33.css",
+    "static/js/main.b23d9d0f.js"
   ]
 }
